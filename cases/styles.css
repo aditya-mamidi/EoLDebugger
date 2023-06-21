@@ -1,0 +1,34 @@
+h2{
+    padding-top: 5%;
+}
+
+div{
+    display: block;
+}
+
+.image{
+    padding-top: 3%;
+}
+
+.back-img{
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: auto;
+    opacity: 0.5;
+}
+
+.top-container{
+    overflow: hidden;
+    position: relative;
+    
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: white;
+}
+
+.content{
+    position: relative;
+}
